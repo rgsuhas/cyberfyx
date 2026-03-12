@@ -1,31 +1,54 @@
-# Cyberfyx Draft Website Content Report
+# Cyberfyx Website Content Report
 
-## Document Purpose
-This draft report is designed for leadership and marketing teams to present a practical content plan for Cyberfyx's website. It identifies:
-- What content should be kept or added (relevant content),
-- What content should be removed or rewritten (irrelevant content), and
-- How to structure pages versus subdomains for SEO, trust, and conversions.
+## Executive Note
+We are ready to publish this as our internal-facing content direction report.
 
----
-
-## Research Snapshot (What this draft is based on)
-
-### What we reviewed
-- Existing page captures from the current site under `raw_scraped_data/`.
-- Current strengths on service pages (cybersecurity, IT security, endpoint management, training).
-- Current weaknesses (template leftovers, dummy logistics content, broken/staging links).
-
-### Key findings that shape this plan
-1. Core service intent is strong, but page consistency and buyer-flow clarity are weak.
-2. Several non-core pages still contain irrelevant template content (e.g., logistics placeholders), reducing trust.
-3. Industries and blog areas require immediate content quality upgrades to support authority.
-4. Domain structure should prioritize a single main domain path model first, with selective subdomains only where operationally necessary.
+Over the past review cycle, we audited the current Cyberfyx website content, identified what is helping us, and documented what is diluting trust. This report reflects our team consensus on what to keep, what to remove, and how to structure content and subdomains so the site feels credible, clear, and conversion-ready.
 
 ---
 
-## Recommended Information Architecture
+## Quick References (Full Links)
 
-### Main navigation pages
+### Live website references
+- Home: https://www.cyberfyx.net/
+- About Us: https://www.cyberfyx.net/about-us/
+- Our Services: https://www.cyberfyx.net/our-services/
+- Cybersecurity: https://www.cyberfyx.net/cybersecurity/
+- IT Security: https://www.cyberfyx.net/it-security/
+- Endpoint Management: https://www.cyberfyx.net/endpoint-management/
+- Industries: https://www.cyberfyx.net/industries/
+- Careers: https://www.cyberfyx.net/job-openings/
+- Contact Us: https://www.cyberfyx.net/contact-us/
+
+### Repository references (update with final repo URL before publication)
+> Replace `<ORG>` and `<REPO>` once this report is published publicly.
+
+- Report file: https://github.com/<ORG>/<REPO>/blob/main/draft-report.md
+- Home scrape reference: https://github.com/<ORG>/<REPO>/blob/main/raw_scraped_data/home.txt
+- About scrape reference: https://github.com/<ORG>/<REPO>/blob/main/raw_scraped_data/about-us.txt
+- Services scrape reference: https://github.com/<ORG>/<REPO>/blob/main/raw_scraped_data/our-services.txt
+- Industries scrape reference: https://github.com/<ORG>/<REPO>/blob/main/raw_scraped_data/industries.txt
+- Careers scrape reference: https://github.com/<ORG>/<REPO>/blob/main/raw_scraped_data/job-openings.txt
+- Contact/Get Quote scrape reference: https://github.com/<ORG>/<REPO>/blob/main/raw_scraped_data/get-a-quote.txt
+
+---
+
+## What We Completed
+
+### Audit scope
+We reviewed the core website content and mapped it against the expectations of a cybersecurity-first brand.
+
+### What we found
+1. Our core service intent is strong and technically credible.
+2. Several pages still carry legacy/template content that weakens trust.
+3. Industry and insight content needs stronger depth and better narrative quality.
+4. A main-domain-first architecture is still the best option for SEO and user confidence.
+
+---
+
+## Final Information Architecture We Recommend
+
+### Core navigation
 - Home
 - About Us
 - Our Services
@@ -33,8 +56,8 @@ This draft report is designed for leadership and marketing teams to present a pr
 - Careers
 - Contact Us
 
-### Recommended supporting sections
-- Leadership Team (can remain under About)
+### Supporting sections
+- Leadership Team (nested under About)
 - Case Studies
 - Insights / Blog
 - Compliance Resources / Downloads
@@ -44,280 +67,249 @@ This draft report is designed for leadership and marketing teams to present a pr
 
 ## 1) Home
 
-### Page goal
-Establish trust quickly, explain Cyberfyx's value proposition in plain business language, and drive visitors to consultation.
+### Our intent
+We use this page to create immediate trust, communicate our value clearly, and move visitors to action.
 
-### Relevant content to include
-- **Clear hero statement**: who Cyberfyx helps and what outcomes it delivers.
-- **Primary CTA** above the fold: "Book a Security Consultation".
-- **Secondary CTA**: "Get a Quote" or "Talk to an Expert".
-- **Service snapshot grid** (Cybersecurity, IT Security, Endpoint Management, Training, Core Industry support).
-- **Trust proof**: certifications, leadership credentials, years of combined expertise.
-- **Industry strip**: sectors served with links to industry pages.
-- **Outcome-led stats**: e.g., assessments completed, avg. remediation time, audits supported.
-- **Recent insights**: latest 3 posts/resources for thought leadership.
+### Relevant content (keep/add)
+- A confident and plain-language hero statement.
+- Primary CTA above the fold: **Book a Security Consultation**.
+- Secondary CTA: **Get a Quote** or **Talk to an Expert**.
+- Service snapshot tiles (Cybersecurity, IT Security, Endpoint Management, Training).
+- Trust signals: certifications, leadership credibility, years of combined experience.
+- Industry highlights with direct links.
+- Outcome-based proof points (audit support, assessment volume, remediation impact).
+- Latest insights to show active expertise.
 
-### Irrelevant content to remove
-- Long, generic intros with no actionable business outcome.
-- Repeated marketing lines that also appear verbatim on multiple pages.
-- Any legacy logistics-theme copy/images.
-- Dead or duplicate CTA buttons.
+### Irrelevant content (remove/avoid)
+- Long generic intros with no business outcome.
+- Repeated paragraphs copied across multiple pages.
+- Legacy logistics-theme language or visuals.
+- Conflicting, duplicate, or broken CTAs.
 
-### Subdomain recommendation
-- Keep Home at the root: `https://www.cyberfyx.net/`
-- Avoid moving Home to any subdomain.
+### Subdomain decision
+- Keep Home on main domain: https://www.cyberfyx.net/
+- No Home subdomain.
 
 ---
 
 ## 2) About Us
 
-### Page goal
-Build credibility with story + team + governance posture.
+### Our intent
+We use this page to humanize the brand and reinforce confidence in our delivery maturity.
 
-### Relevant content to include
-- **Company narrative**: why Cyberfyx exists and what problem it solves.
-- **Mission, vision, values** linked to real operating principles.
-- **Leadership highlights** with domain credentials and years of experience.
-- **Operating model**: consulting + implementation + managed support.
-- **Governance clarity**: if KRISH CORP relation exists, explain it clearly in one section.
-- **Milestone timeline**: founding, key partnerships, major delivery milestones.
+### Relevant content (keep/add)
+- Clear company story: why we exist and what problem we solve.
+- Mission, vision, values connected to client outcomes.
+- Leadership profiles with meaningful credentials.
+- Delivery model: advisory + implementation + managed support.
+- One clear statement on KRISH CORP relationship (if applicable).
+- Company milestones that matter to clients and partners.
 
-### Irrelevant content to remove
-- Ambiguous references to parent/legacy entities without context.
-- Excessive internal history not relevant to client outcomes.
-- Placeholder biographies and stock claims without evidence.
+### Irrelevant content (remove/avoid)
+- Ambiguous legacy references without context.
+- Internal details that do not support buyer confidence.
+- Placeholder bios or claims we cannot validate.
 
-### Subdomain recommendation
-- Keep as `https://www.cyberfyx.net/about-us/`
-- Optional future split only if investor/press relations expand (e.g., `company.cyberfyx.net`).
+### Subdomain decision
+- Keep About on main path: https://www.cyberfyx.net/about-us/
+- Consider a company subdomain only if investor/press content grows materially.
 
 ---
 
 ## 3) Our Services
 
-### Page goal
-Help buyers understand each service quickly and request the next step.
+### Our intent
+We use Services to make buying easier: fast understanding, clear scope, clear next step.
 
-### Relevant content to include
-- **Service taxonomy by outcome**, not just category names:
-  - Assess (VAPT, risk assessments, posture review)
-  - Comply (ISO/PCI/DPDPA readiness)
-  - Protect (endpoint, hardening, monitoring)
-  - Respond (incident readiness / IR support)
-  - Improve (training and maturity programs)
-- **Each service page format**:
-  1. Business problem,
-  2. Solution scope,
-  3. Deliverables,
-  4. Timeline,
-  5. Ideal customer profile,
-  6. CTA.
-- **Cross-links** between services and industries.
-- **Proof blocks**: case snippets, frameworks, measurable outcomes.
+### Relevant content (keep/add)
+- Services grouped by business outcome:
+  - **Assess** (VAPT, posture review, risk assessment)
+  - **Comply** (ISO, PCI DSS, DPDPA readiness)
+  - **Protect** (endpoint and control hardening)
+  - **Respond** (incident readiness and response support)
+  - **Improve** (training and maturity uplift)
+- Consistent service-page structure:
+  1. Business challenge
+  2. Scope and approach
+  3. Deliverables
+  4. Typical timeline
+  5. Ideal customer profile
+  6. CTA
+- Cross-links to relevant industry pages.
+- Proof modules with measurable outcomes.
 
-### Irrelevant content to remove
-- One-page service dumping with no prioritization.
-- Tool names without explaining business impact.
-- Overuse of acronyms without plain-English explanation.
+### Irrelevant content (remove/avoid)
+- One long undifferentiated services page.
+- Tool/vendor names without business explanation.
+- Unexplained jargon and acronym overload.
 
-### Subdomain recommendation
-- Keep under root path for SEO authority:
-  - `https://www.cyberfyx.net/our-services/`
-  - `https://www.cyberfyx.net/cybersecurity/`
-  - `https://www.cyberfyx.net/it-security/` etc.
-- Use a subdomain only if launching a distinct SaaS portal/product.
+### Subdomain decision
+- Keep services on primary path:
+  - https://www.cyberfyx.net/our-services/
+  - https://www.cyberfyx.net/cybersecurity/
+  - https://www.cyberfyx.net/it-security/
+- Use a subdomain only for a standalone product platform.
 
 ---
 
 ## 4) Industries
 
-### Page goal
-Show industry-specific relevance and compliance competence.
+### Our intent
+We use industry pages to show we understand sector-specific threats, controls, and compliance realities.
 
-### Relevant content to include
-- Individual industry pages for top target verticals:
+### Relevant content (keep/add)
+- Priority pages:
   - Healthcare
-  - Banking/Financial Services
-  - Government/Public Sector
+  - Banking / Financial Services
+  - Government / Public Sector
   - Manufacturing
-  - Retail/E-commerce
-  - IT/Technology
-- For each industry page include:
-  - Threat patterns,
-  - Typical compliance/regulatory obligations,
-  - Common risk scenarios,
-  - Relevant Cyberfyx services,
-  - One mini case example,
-  - Industry-specific CTA.
-- Fix and replace any staging links with production URLs.
+  - Retail / E-commerce
+  - IT / Technology
+- Standard block structure for each industry page:
+  - Threat patterns
+  - Regulatory/compliance expectations
+  - Typical risk scenarios
+  - Mapped Cyberfyx service fit
+  - One short case example
+  - Industry-specific CTA
+- Replace all staging links with production links.
 
-### Irrelevant content to remove
-- Generic copy reused across all industry pages.
-- Lists of industries with no context or links.
-- Broken links to temporary/staging domains.
+### Irrelevant content (remove/avoid)
+- Generic copy pasted across industries.
+- Empty industry lists with no practical value.
+- Broken or temporary/staging URLs.
 
-### Subdomain recommendation
-- Keep as directory model:
-  - `https://www.cyberfyx.net/industries/healthcare/`
-  - `https://www.cyberfyx.net/industries/bfsi/`
-- Avoid one-subdomain-per-industry until scale requires it.
+### Subdomain decision
+- Keep industry pages on primary path:
+  - https://www.cyberfyx.net/industries/
+  - Example: https://www.cyberfyx.net/industries/healthcare/
+- Avoid one-subdomain-per-industry.
 
 ---
 
 ## 5) Careers
 
-### Page goal
-Attract qualified talent and create a frictionless application journey.
+### Our intent
+We use Careers to attract high-quality talent while keeping the application path simple and transparent.
 
-### Relevant content to include
-- **Employer value proposition** focused on mission and growth.
-- **Open roles** with structured details:
-  - level,
-  - location,
-  - required certifications,
-  - key responsibilities,
-  - outcomes expected in first 90 days.
-- **Hiring process section** (screening → interview → decision timeline).
-- **Learning culture**: certifications, mentorship, client exposure.
-- **Equal opportunity statement** and workplace standards.
+### Relevant content (keep/add)
+- Strong employer value proposition aligned to mission.
+- Active role descriptions with scope and expectations.
+- Clear hiring process and response timelines.
+- Learning and growth narrative (certifications, mentoring, exposure).
+- Equal opportunity and workplace culture standards.
 
-### Irrelevant content to remove
-- Duplicate careers pages with overlapping purposes.
-- Outdated role postings.
-- Generic HR filler content unrelated to security practice work.
+### Irrelevant content (remove/avoid)
+- Duplicate career pages.
+- Expired openings.
+- Generic HR text disconnected from cybersecurity roles.
 
-### Subdomain recommendation
-- Primary: `https://www.cyberfyx.net/job-openings/`
-- If ATS integration is adopted, map branded subdomain: `jobs.cyberfyx.net`.
+### Subdomain decision
+- Keep Careers on main path: https://www.cyberfyx.net/job-openings/
+- If an ATS is introduced, we can map: https://jobs.cyberfyx.net/
 
 ---
 
 ## 6) Contact Us
 
-### Page goal
-Convert visitors to qualified leads and support requests with quick routing.
+### Our intent
+We use Contact to capture intent, route requests correctly, and shorten response cycles.
 
-### Relevant content to include
-- **Short, high-intent form**:
-  - Name,
-  - Work email,
-  - Company,
-  - Requirement,
-  - Estimated timeline.
-- **Contact routing** options:
-  - Sales inquiries,
-  - Partnership inquiries,
-  - Existing client support.
-- **Response commitment** (e.g., within 1 business day).
-- **Location and operating hours**.
-- **Data privacy notice** for form submissions.
+### Relevant content (keep/add)
+- Short, conversion-friendly form:
+  - Name
+  - Work email
+  - Company
+  - Requirement
+  - Timeline
+- Inquiry routing: Sales, Partnerships, Support.
+- Response commitment (SLA language).
+- Office/location and working hours.
+- Privacy assurance for form submissions.
 
-### Irrelevant content to remove
-- Long forms with excessive mandatory fields.
-- Fake/placeholder contact details.
-- Unclear submission status (no confirmation state).
+### Irrelevant content (remove/avoid)
+- Overlong forms with unnecessary required fields.
+- Placeholder contact details.
+- Missing success/confirmation message after form submit.
 
-### Subdomain recommendation
-- Keep contact page on primary domain: `https://www.cyberfyx.net/contact-us/`
-- Optional support function on `support.cyberfyx.net` if helpdesk is distinct.
+### Subdomain decision
+- Keep Contact on primary path: https://www.cyberfyx.net/contact-us/
+- Support subdomain only if helpdesk tooling is separate: https://support.cyberfyx.net/
 
 ---
 
-## Additional Content Recommendations (Important)
+## Additional Content We Should Publish
 
-### A) Case Studies Hub (High priority)
-Add 4–8 concise case studies across core verticals and service lines:
-- Challenge,
-- Approach,
-- Controls implemented,
-- Result/impact.
+### 1) Case Studies Hub (High priority)
+We should publish 4–8 concise case studies covering challenge, approach, controls, and measurable outcomes.
 
-### B) Insights / Blog Rebuild (High priority)
-Replace template/dummy posts with cybersecurity-native topics:
-- DPDPA readiness checklists,
-- ISO 27001 implementation mistakes,
-- Ransomware response playbooks,
-- Endpoint hardening in hybrid work environments,
-- Third-party/vendor risk management.
+### 2) Insights / Blog Rebuild (High priority)
+We should replace template posts with practical cybersecurity topics:
+- DPDPA readiness checklist
+- ISO 27001 implementation pitfalls
+- Ransomware preparedness and response
+- Endpoint hardening in hybrid work
+- Third-party risk controls
 
-### C) Downloadable Assets (Medium priority)
-Lead magnets for conversion:
-- Security maturity checklist,
-- Incident response plan template,
-- PCI DSS readiness self-assessment,
-- Board-level cyber risk briefing one-pager.
+### 3) Downloadable Assets (Medium priority)
+We should create lead-generation assets:
+- Security maturity checklist
+- Incident response template
+- PCI DSS readiness worksheet
+- Board-level cyber risk one-pager
 
-### D) FAQ Rebuild (Medium priority)
-Create a genuine cybersecurity FAQ (pricing model, project duration, certification support, readiness audits, managed vs consulting).
+### 4) FAQ Rebuild (Medium priority)
+We should launch a practical FAQ that answers real buyer questions on pricing models, timelines, standards, and support scope.
 
-### E) Proof & Trust Layer (High priority)
-- Client logos (where permitted),
-- Partner badges,
-- Certifications,
-- Leadership speaking engagements,
-- Compliance frameworks supported.
+### 5) Proof Layer (High priority)
+We should strengthen trust with:
+- Approved client logos
+- Partner badges
+- Certifications
+- Leadership speaking credentials
+- Supported compliance frameworks
 
 ---
 
-## Subdomain Strategy (Final Recommendation)
+## Final Subdomain Strategy
 
-### Keep on main domain path (default)
-- Home, About, Services, Industries, Careers, Contact, Blog
+### Keep on main domain path by default
+- Home, About, Services, Industries, Careers, Contact, Blog.
 
 ### Use subdomains only for distinct systems
-- `support.cyberfyx.net` → ticketing/helpdesk
-- `portal.cyberfyx.net` → client portal/dashboard
-- `jobs.cyberfyx.net` → ATS-hosted job system
-- `academy.cyberfyx.net` → learning portal (if training platform expands)
+- Support: https://support.cyberfyx.net/
+- Portal: https://portal.cyberfyx.net/
+- Jobs (ATS): https://jobs.cyberfyx.net/
+- Academy (future training platform): https://academy.cyberfyx.net/
 
-### Why this model
-- Better SEO consolidation,
-- Stronger trust continuity,
-- Simpler analytics and conversion tracking,
-- Lower content governance overhead.
+### Why this is the right model for us
+- Consolidates SEO authority.
+- Preserves one consistent trust experience.
+- Simplifies analytics and attribution.
+- Reduces governance and maintenance overhead.
 
 ---
 
-## Content Governance Model
+## Content Governance
 
 ### Ownership
-- Marketing: page messaging, editorial calendar, conversion assets.
-- Cyber/Delivery SMEs: technical validation, compliance accuracy.
-- Leadership: final approval for positioning and public claims.
+- Marketing owns messaging, editorial flow, and conversion assets.
+- Cyber/Delivery SMEs validate all technical and compliance content.
+- Leadership approves external claims and positioning.
 
-### Publishing cadence
-- Monthly: 2 insight articles + 1 case study update.
-- Quarterly: page performance and conversion review.
-- Bi-annual: full content quality and relevance audit.
+### Publishing rhythm
+- Monthly: 2 insights + 1 case update.
+- Quarterly: conversion and content performance review.
+- Bi-annual: full relevance and quality audit.
 
-### Core quality checklist (before publish)
-- Is the content cybersecurity-relevant?
-- Is every claim supported by proof/example?
-- Is there a clear CTA?
-- Are links and forms working?
-- Is page language clear to both technical and business audiences?
-
----
-
-## 30-60-90 Day Rollout Plan
-
-### First 30 days
-- Remove/redirect irrelevant template pages.
-- Rewrite Home, About, Contact for conversion clarity.
-- Fix staging/broken links on Industries.
-
-### Day 31–60
-- Rebuild Services with consistent service-page template.
-- Launch 3 industry pages with tailored content.
-- Publish first 4 real blog/insight posts.
-
-### Day 61–90
-- Launch case study hub and downloadable resources.
-- Improve Careers experience and role content.
-- Implement analytics dashboard for CTA and form conversion.
+### Pre-publish checklist
+- Is this cybersecurity-relevant and audience-appropriate?
+- Are all claims backed by proof or examples?
+- Is the CTA clear and page-specific?
+- Are links and forms functional?
+- Is the language understandable to both technical and business readers?
 
 ---
 
-## Final Team Presentation Summary
-Cyberfyx should prioritize **content credibility, buyer clarity, and controlled IA simplification**. The current website has strong service intent but loses trust through outdated template leftovers and inconsistent content quality. A focused rewrite of the six core pages, supported by case studies, industry relevance, and a conservative subdomain strategy, will significantly improve perceived authority and lead conversion.
-
+## Final Team Summary
+We have completed the content planning baseline for all six core pages and aligned on a practical subdomain model. This version is polished for publication and presentation, while still actionable for immediate implementation.
