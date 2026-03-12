@@ -15,7 +15,7 @@ The website is structured around the core services offered, including Cybersecur
 ## 5. Page-by-Page Analysis
 
 ### 1. Home (/)
-- **Raw Data Extract**: [home.txt](raw_scraped_data/home.txt)
+- **Raw Data Extract**: [home.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/home.txt)
 - **Title**: Home - Cyberfyx
 - **Purpose**: Main landing page introducing the company and primary offerings.
 - **Content Summary**: Introduces Cyberfyx as a next-generation IT and cybersecurity solutions provider. Highlights their authorized partnership for Endpoint Management and DC solutions. Mentions their focus on industries like Healthcare, Retail, Education, Energy, Defense, Media, IT, Government, Banking, Telecom.
@@ -24,7 +24,7 @@ The website is structured around the core services offered, including Cybersecur
 - **Media/Resources**: Standard web images (e.g. `business-job-interview-concept2.webp`).
 
 ### 2. About Us (/about-us/)
-- **Raw Data Extract**: [about-us.txt](raw_scraped_data/about-us.txt)
+- **Raw Data Extract**: [about-us.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/about-us.txt)
 - **Title**: About us - Cyberfyx
 - **Purpose**: Provides background information about the company.
 - **Content Summary**: Re-iterates focus on intelligence-led protection and resilience. Mentions 7 decades of combined ISO & IT Security expertise. Provides reasons to choose them including cost-effective advisory and a versatile team. Interestingly mentions "KRISH CORP began its footsteps in 2016" likely as an origin or parent entity.
@@ -32,7 +32,7 @@ The website is structured around the core services offered, including Cybersecur
 - **Supporting Links**: Contact us, Careers, Industries.
 
 ### 3. Our Services (/our-services/)
-- **Raw Data Extract**: [our-services.txt](raw_scraped_data/our-services.txt)
+- **Raw Data Extract**: [our-services.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/our-services.txt)
 - **Title**: Our Services - Cyberfyx
 - **Purpose**: Index page for all service offerings.
 - **Content Summary**: Lists major service categories including ISO Consultation and IT Security, CyberSecurity Services, Patch Management System, and Power Management Software.
@@ -40,7 +40,7 @@ The website is structured around the core services offered, including Cybersecur
 - **Supporting Links**: Internal links to the individual service detail pages.
 
 ### 4. Cybersecurity (/cybersecurity/)
-- **Raw Data Extract**: [cybersecurity.txt](raw_scraped_data/cybersecurity.txt)
+- **Raw Data Extract**: [cybersecurity.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/cybersecurity.txt)
 - **Title**: CYBERSECURITY - Cyberfyx
 - **Purpose**: Details the cybersecurity specific services.
 - **Content Summary**: Explains end-to-end cybersecurity services like VAPT, GRC maintenance, PCI DSS readiness, DPDPA implementation, privacy audits, red team assessments, and attack surface management. Also offers virtual CISO/DPO.
@@ -48,14 +48,14 @@ The website is structured around the core services offered, including Cybersecur
 - **Supporting Links**: Contact us.
 
 ### 5. IT Security (/it-security/)
-- **Raw Data Extract**: [it-security.txt](raw_scraped_data/it-security.txt)
+- **Raw Data Extract**: [it-security.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/it-security.txt)
 - **Title**: IT SECURITY - Cyberfyx
 - **Purpose**: Outline security consulting and certification readiness services.
 - **Content Summary**: Details expertise across cloud, on-premise, and hybrid infrastructures. Explains support for various standards including ISO 27001, ISO 27701, ISO 22301, ISO 20000-1, ISO 27017, ISO 27018, ISO 42001 (AI), CSA STAR, and TISAX.
 - **Key Topics**: Vulnerability management, ISO Certifications (27001, 27701, 22301, etc), CSA STAR, TISAX.
 - **Supporting Links**: Get Quote.
 ### 6. Endpoint Management (/endpoint-management/)
-- **Raw Data Extract**: [endpoint-management.txt](raw_scraped_data/endpoint-management.txt)
+- **Raw Data Extract**: [endpoint-management.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/endpoint-management.txt)
 - **Title**: ENDPOINT MANAGEMENT - Cyberfyx
 - **Purpose**: Detail endpoint management tool capabilities and services.
 - **Content Summary**: Emphasizes their role as an authorized solution partner for IPM+ Endpoint Management Solutions, empowering enterprises with intelligent and secure device management.
@@ -63,7 +63,7 @@ The website is structured around the core services offered, including Cybersecur
 - **Supporting Links**: Contact us.
 
 ### 7. Core Industry (/core-industry/)
-- **Raw Data Extract**: [core-industry.txt](raw_scraped_data/core-industry.txt)
+- **Raw Data Extract**: [core-industry.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/core-industry.txt)
 - **Title**: CORE INDUSTRY - Cyberfyx
 - **Purpose**: Outline the end-to-end support lifecycle provided to core industries.
 - **Content Summary**: Explains services covering gap assessments, documentation, training, internal audits, certification liaison, and post-certification maintenance.
@@ -71,7 +71,7 @@ The website is structured around the core services offered, including Cybersecur
 - **Supporting Links**: Contact us.
 
 ### 8. Trainings (/trainings/)
-- **Raw Data Extract**: [trainings.txt](raw_scraped_data/trainings.txt)
+- **Raw Data Extract**: [trainings.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/trainings.txt)
 - **Title**: TRAININGS - Cyberfyx
 - **Purpose**: List available training workshops and their details.
 - **Content Summary**: Highlights professional training programs including ISO/IEC 27001:2022 Awareness & Internal Audit and GDPR Compliance Workshops.
@@ -79,33 +79,33 @@ The website is structured around the core services offered, including Cybersecur
 - **Supporting Links**: Contact us.
 
 ### 9. Careers (/job-openings/)
-- **Raw Data Extract**: [job-openings.txt](raw_scraped_data/job-openings.txt)
+- **Raw Data Extract**: [job-openings.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/job-openings.txt)
 - **Title**: Careers - Cyberfyx
 - **Purpose**: portal for job seekers.
 - **Content Summary**: Lists open vacancies such as ISO 27001 Consultants and Sales Executives.
 - **Key Topics**: Job openings, Sales, ISO Consulting roles.
 
 ### 10. Industries (/industries/)
-- **Raw Data Extract**: [industries.txt](raw_scraped_data/industries.txt)
+- **Raw Data Extract**: [industries.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/industries.txt)
 - **Title**: Industries - Cyberfyx
 - **Purpose**: Highlight the business domains served.
 - **Content Summary**: Lists sectors including Healthcare, Banking, Manufacturing, Retail, etc. The industry links oddly point to a staging/temporary URL (`hotpink-lyrebird...`).
 
 ### 11-14. Logistics Template Pages (/get-a-quote/, /faq/, /team-member/, /career/)
-- **Raw Data Extracts**: [get-a-quote.txt](raw_scraped_data/get-a-quote.txt), [faq.txt](raw_scraped_data/faq.txt), [team-member.txt](raw_scraped_data/team-member.txt), [career.txt](raw_scraped_data/career.txt)
+- **Raw Data Extracts**: [get-a-quote.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/get-a-quote.txt), [faq.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/faq.txt), [team-member.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/team-member.txt), [career.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/career.txt)
 - **Content Summary**: These pages expose dummy content, placeholder numbers, and text about "Sea freight" and "Air freight". They are unedited template pages leftover from what looks like a logistics WordPress theme.
 
 ### 15-17. Other Templates & Sparse Pages (/portfolio/, /our-clients/, /gallery/)
-- **Raw Data Extracts**: [portfolio.txt](raw_scraped_data/portfolio.txt), [our-clients.txt](raw_scraped_data/our-clients.txt), [gallery.txt](raw_scraped_data/gallery.txt)
+- **Raw Data Extracts**: [portfolio.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/portfolio.txt), [our-clients.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/our-clients.txt), [gallery.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/gallery.txt)
 - **Content Summary**: Portfolio and client testimonials are dummy text about logistics. Gallery contains only a heading.
 
 ### 18. Leadership Team (/leadership-team/)
-- **Raw Data Extract**: [leadership-team.txt](raw_scraped_data/leadership-team.txt)
+- **Raw Data Extract**: [leadership-team.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/leadership-team.txt)
 - **Title**: LEADERSHIP TEAM - Cyberfyx
 - **Content Summary**: Lists extensive profiles of key personnel including Founders and Directors (e.g., Dr. Sekhar Kidambi).
 
 ### 19. Blog (/blog/)
-- **Raw Data Extract**: [blog.txt](raw_scraped_data/blog.txt)
+- **Raw Data Extract**: [blog.txt](https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/blog.txt)
 - **Content Summary**: All 5 blog posts are dummy content originating from a logistics theme (e.g., "Container freight cost").
 
 ## 6. Supporting Resources
