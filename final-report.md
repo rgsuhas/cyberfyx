@@ -1,9 +1,6 @@
 # Cyberfyx Website Content Report
 
-## Executive Note
-We are ready to publish this as our internal-facing content direction report.
-
-Over the past review cycle, we audited the current Cyberfyx website content, identified what is helping us, and documented what is diluting trust. This report reflects our team consensus on what to keep, what to remove, and how to structure content and subdomains so the site feels credible, clear, and conversion-ready.
+This report presents the findings from the content scraped and analyzed from the cyberfyx.net
 
 ---
 
@@ -206,6 +203,14 @@ We use Careers to attract high-quality talent while keeping the application path
 - Keep Careers on main path: https://www.cyberfyx.net/job-openings/
 - If an ATS is introduced, we can map: https://jobs.cyberfyx.net/
 
+
+P.S: Careers page could benefit from batter wordings or phrasings like 
+	- life at cyberfyx
+		- Life at Cyberfyx
+		- Our workspace
+		- Our people
+		- Our culture and career opportunities
+	
 ---
 
 ## 6) Contact Us
