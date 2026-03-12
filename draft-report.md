@@ -20,16 +20,14 @@ Over the past review cycle, we audited the current Cyberfyx website content, ide
 - Careers: https://www.cyberfyx.net/job-openings/
 - Contact Us: https://www.cyberfyx.net/contact-us/
 
-### Repository references (update with final repo URL before publication)
-> Replace `<ORG>` and `<REPO>` once this report is published publicly.
-
-- Report file: https://github.com/<ORG>/<REPO>/blob/main/draft-report.md
-- Home scrape reference: https://github.com/<ORG>/<REPO>/blob/main/raw_scraped_data/home.txt
-- About scrape reference: https://github.com/<ORG>/<REPO>/blob/main/raw_scraped_data/about-us.txt
-- Services scrape reference: https://github.com/<ORG>/<REPO>/blob/main/raw_scraped_data/our-services.txt
-- Industries scrape reference: https://github.com/<ORG>/<REPO>/blob/main/raw_scraped_data/industries.txt
-- Careers scrape reference: https://github.com/<ORG>/<REPO>/blob/main/raw_scraped_data/job-openings.txt
-- Contact/Get Quote scrape reference: https://github.com/<ORG>/<REPO>/blob/main/raw_scraped_data/get-a-quote.txt
+### Repository references
+- Report file: https://github.com/rgsuhas/cyberfyx/blob/main/draft-report.md
+- Home scrape reference: https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/home.txt
+- About scrape reference: https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/about-us.txt
+- Services scrape reference: https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/our-services.txt
+- Industries scrape reference: https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/industries.txt
+- Careers scrape reference: https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/job-openings.txt
+- Contact/Get Quote scrape reference: https://github.com/rgsuhas/cyberfyx/blob/main/raw_scraped_data/get-a-quote.txt
 
 ---
 
